@@ -1,4 +1,4 @@
-# Garaje Live Coding (2022)
+# LiveCoding-Aplicaciones-web-interactivas-3D-con-Rust-and-Wasm
 
 - [glc-2022](#glc-2022)
   - [0. Environment setup](#0-environment-setup)

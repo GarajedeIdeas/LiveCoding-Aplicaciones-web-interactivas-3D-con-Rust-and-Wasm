@@ -1,4 +1,7 @@
-# LiveCoding-Aplicaciones-web-interactivas-3D-con-Rust-and-Wasm
+# Aplicaciones web interactivas 3D con Rust and Wasm
+[Ver Grabación](https://youtu.be/8mgAepRZrig)
+
+# Por Francesco Giordana, Senior Software Engineer @ Netflix
 
 - [glc-2022](#glc-2022)
   - [0. Environment setup](#0-environment-setup)

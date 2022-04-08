@@ -1,6 +1,16 @@
 # Aplicaciones web interactivas 3D con Rust and Wasm
 [Ver Grabación](https://youtu.be/8mgAepRZrig)
 
+# Recursos
+https://doc.rust-lang.org/book/
+https://rust-lang-nursery.github.io/rust-cookbook/
+https://rustwasm.github.io/book/
+https://www.manning.com/books/rust-in-action
+https://nostarch.com/rust-rustaceans
+https://github.com/gfx-rs/wgpu
+https://sotrh.github.io/learn-wgpu/
+https://bevyengine.org/
+
 # Por Francesco Giordana, Senior Software Engineer @ Netflix
 
 - [glc-2022](#glc-2022)

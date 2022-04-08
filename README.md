@@ -4,7 +4,6 @@
 # Por Francesco Giordana, Senior Software Engineer @ Netflix
 
 ## Enlace a la presentación:
-
 [Garaje Live Coding.pdf](./Garaje Live Coding.pdf)
 
 # Recursos

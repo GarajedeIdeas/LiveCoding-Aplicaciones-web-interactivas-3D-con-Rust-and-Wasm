@@ -2,7 +2,7 @@
 [Ver Grabación](https://youtu.be/8mgAepRZrig)
 
 # Recursos
-https://doc.rust-lang.org/book/
+https://doc.rust-lang.org/book/;
 https://rust-lang-nursery.github.io/rust-cookbook/
 https://rustwasm.github.io/book/
 https://www.manning.com/books/rust-in-action

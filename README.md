@@ -6,7 +6,7 @@
 ## Enlace a la presentación:
 [Garaje Live Coding.pdf](https://github.com/GarajedeIdeas/LiveCoding-Aplicaciones-web-interactivas-3D-con-Rust-and-Wasm/blob/320dd65db6481a3bf5dd5d4c16619f213542bc98/Garaje%20Live%20Coding.pdf)
 
-# Recursos
+# Recursos adicionales
 https://doc.rust-lang.org/book/
 
 https://rust-lang-nursery.github.io/rust-cookbook/
